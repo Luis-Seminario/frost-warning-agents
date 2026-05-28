@@ -57,8 +57,8 @@ Desarrollar un sistema híbrido de inteligencia artificial para **predicción te
 ---
 
 ## 👥 Autores
-- First Author1  
-- Second Author2  
+- Luis Seminario  
+- Heber Oliva 
 
 ---
 
